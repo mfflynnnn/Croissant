@@ -1,0 +1,17 @@
+body {
+  background-color: #d3cbc6;
+  text-align: center;
+  color: #614e44;
+}
+
+img {
+  max-width: 70%;
+}
+
+a {
+  color: white;
+}
+
+.links a {
+  padding: 0 10px;
+}
